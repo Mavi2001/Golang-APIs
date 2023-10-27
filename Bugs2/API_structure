@@ -1,0 +1,16 @@
+The code is structured as follows:---->>>>
+
+
+1) - Import statements: Import necessary packages.
+
+2) - Struct definitions: Define the User, Playlist, Song, and MusicListerAPI structs.
+
+3) - Constructor function: Define the NewMusicListerAPI function that creates
+     a new instance of the MusicListerAPI struct.
+
+4) - API methods: Define the methods of the MusicListerAPI struct for handling different API endpoints.
+
+5) - Helper function: Define the generateUniqueID function for generating unique IDs.
+
+6) - Main function: Initialize a new instance of the MusicListerAPI, set up the HTTP routes,
+     and start the HTTP server.

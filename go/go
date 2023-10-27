@@ -1,0 +1,5 @@
+goland setup
+first install go and create main.go 
+using command go mod init example/filename create file go.mod
+in terminal anotehr command is go get github.com/gin-gonic/gin which installs some packages and creates file go.sum
+now we craete api
